@@ -7,8 +7,12 @@
 推送本地文件到远程：
 ```
 git add .
-git commit -m"something"
+git commit -m"something" 
 git push
+```
+精简
+```
+git add . && git commit -m"something" && git push
 ```
 
 下拉远程文件到本地
