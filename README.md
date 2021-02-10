@@ -6,7 +6,8 @@
 
 推送本地文件到远程：
 ```
-git add .
+ls
+cd jingdong-meishan
 git commit -m"something" 
 git push
 ```
